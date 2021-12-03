@@ -1,0 +1,16 @@
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\bin\Debug\net5.0\StrategyPattern_Printers.exe
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\bin\Debug\net5.0\StrategyPattern_Printers.deps.json
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\bin\Debug\net5.0\StrategyPattern_Printers.runtimeconfig.json
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\bin\Debug\net5.0\StrategyPattern_Printers.runtimeconfig.dev.json
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\bin\Debug\net5.0\StrategyPattern_Printers.dll
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\bin\Debug\net5.0\ref\StrategyPattern_Printers.dll
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\bin\Debug\net5.0\StrategyPattern_Printers.pdb
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\obj\Debug\net5.0\StrategyPattern_Printers.csproj.AssemblyReference.cache
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\obj\Debug\net5.0\StrategyPattern_Printers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\obj\Debug\net5.0\StrategyPattern_Printers.AssemblyInfoInputs.cache
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\obj\Debug\net5.0\StrategyPattern_Printers.AssemblyInfo.cs
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\obj\Debug\net5.0\StrategyPattern_Printers.csproj.CoreCompileInputs.cache
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\obj\Debug\net5.0\StrategyPattern_Printers.dll
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\obj\Debug\net5.0\ref\StrategyPattern_Printers.dll
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\obj\Debug\net5.0\StrategyPattern_Printers.pdb
+D:\SoftTech\Tasks\StrategyPattern_Printers\StrategyPattern_Printers\obj\Debug\net5.0\StrategyPattern_Printers.genruntimeconfig.cache
